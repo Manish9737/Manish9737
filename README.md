@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me byEmail : kumavatmanish5@gmail.com
+- 📫 How to reach me byEmail : manishkumavat73@gmail.com
 
 
 <!---
